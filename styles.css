@@ -1,3 +1,50 @@
-* {
-    border: 2px solid red;
+.header {
+    background-color: azure;
+    padding: 10px;
+    border: 5px solid orange;
+    margin: 10px;
+    width: 190px;
+    height: 35px;
 }
+
+.list_items {
+    background-color: rgb(179,57,81);
+    padding: 5px;
+    border: 5px solid rgb(26, 24, 26);
+    margin: 5px;
+    height: auto;
+    width: 200px;
+    box-sizing: border-box;
+}
+
+.list_items :hover {
+    background-color: rgb(255, 251, 1);
+    padding: 2px;
+    border: 0px;
+    margin: 5px;
+    height: auto;
+    width: 200px;
+
+}
+
+.box-one {
+    background-color: rgb(247, 132, 168);
+    color: rgb(0, 255, 170);
+    padding: 2px;
+    border: 0px;
+    margin: 5px;
+    height: auto;
+    width: 120px;
+}
+
+.box-two {
+    background-color: blue;
+    color: red;
+    padding: 10px;
+    border: 30px solid rgb(238, 255, 0);
+    margin: 40px;
+    height: 100px;
+    width: 100px;
+    
+}
+
